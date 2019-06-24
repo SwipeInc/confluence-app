@@ -1,7 +1,7 @@
 .table-of-contents ul li {
     margin-bottom: 3px;
 }
-.first-item-is-title .table-of-contents > ul > li:first-child {
+.first-item-is-title .table-of-contents ul li:first-child {
 	color: red !important;
 }
 
